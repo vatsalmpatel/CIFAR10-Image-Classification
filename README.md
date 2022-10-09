@@ -22,4 +22,6 @@ After activating the environment, do this. this will install all dependencies th
 pip install -r requirements.txt
 ```
 
-You can now run the jupyter notebook and create the model. 
+You can now run the jupyter notebook and create the model.✔
+
+# Some results from the training: 🏁
