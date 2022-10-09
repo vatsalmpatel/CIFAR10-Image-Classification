@@ -25,3 +25,4 @@ pip install -r requirements.txt
 You can now run the jupyter notebook and create the model.✔
 
 # Some results from the training: 🏁
+After training the model for 100 epochs, here are some results. Tradionally, simple CNN models haven't performed very well on the CIFAR10 dataset. To increase the accuracy, you need to make the model way more complex, which not increases the training time, but you also risk overfitting. A better alternative would be to use pre-trained models such as VGG or ResNet, they give way better performance and faster training times than traditional CNN models. 
